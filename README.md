@@ -1,6 +1,8 @@
 # Enterprise Modernization Framework  
 ### Jesse Lassiter
 
+A structured framework for guiding enterprise IT modernization, reliability engineering, and operational transformation across complex environments.
+
 This repository outlines a high-level framework for guiding enterprise IT modernization initiatives across complex, regulated environments.
 
 Modernization is not simply a technology upgrade — it is a structured transformation of systems, processes, and operational models.
